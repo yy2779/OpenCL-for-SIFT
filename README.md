@@ -29,12 +29,12 @@ naive.cpp & naive.py is used for time comparison only.
 
 optimize.cpp & optimize.py:
 
-    the running time for each kernels, and verification for some of them
+   the running time for each kernels, and verification for some of them
 
-    the number of local extrema and keypoints
+   the number of local extrema and keypoints
 
-    3 images, one for our program, one for OpenCV SIFT, one for OpenCV SURF
+   3 images, one for our program, one for OpenCV SIFT, one for OpenCV SURF
 
 naive.cpp & naive.py:
 
-    running time for kernels
+   running time for kernels
