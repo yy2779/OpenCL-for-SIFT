@@ -1,4 +1,4 @@
-# 475Heterogen-Comp-Sig-Processing-CourseProject
+# 4750Heterogen-Comp-Sig-Processing-CourseProject
 Course Project for 4750 HETEROGEN COMP-SIG PROCESSING. 
 
 Language: Python, PyOpenCL
